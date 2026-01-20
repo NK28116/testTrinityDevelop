@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-01-20T10:40:13.388Z",
+  "updatedAt": "2026-01-20T10:40:14.481Z",
   "currentPhase": "task_def",
   "project": {
     "name": "New Project",
@@ -20,6 +20,11 @@
     {
       "timestamp": "2026-01-20T10:39:23.766Z",
       "action": "Phase changed to detail_design",
+      "actor": "user"
+    },
+    {
+      "timestamp": "2026-01-20T10:40:14.481Z",
+      "action": "Phase changed to task_def",
       "actor": "user"
     }
   ]
