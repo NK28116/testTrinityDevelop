@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-01-20T11:52:31.570Z",
+  "updatedAt": "2026-01-20T11:52:32.486Z",
   "currentPhase": "testing",
   "project": {
     "name": "New Project",
@@ -40,6 +40,11 @@
     {
       "timestamp": "2026-01-20T11:52:10.592Z",
       "action": "Phase changed to test_plan",
+      "actor": "user"
+    },
+    {
+      "timestamp": "2026-01-20T11:52:32.486Z",
+      "action": "Phase changed to testing",
       "actor": "user"
     }
   ]
