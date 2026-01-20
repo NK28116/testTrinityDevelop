@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-01-20T11:52:03.406Z",
+  "updatedAt": "2026-01-20T11:52:05.000Z",
   "currentPhase": "review",
   "project": {
     "name": "New Project",
@@ -30,6 +30,11 @@
     {
       "timestamp": "2026-01-20T11:51:59.114Z",
       "action": "Phase changed to implementation",
+      "actor": "user"
+    },
+    {
+      "timestamp": "2026-01-20T11:52:05.000Z",
+      "action": "Phase changed to review",
       "actor": "user"
     }
   ]
