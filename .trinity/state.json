@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-01-22T16:36:58.736Z",
+  "updatedAt": "2026-01-22T16:37:00.014Z",
   "currentPhase": "basic_design",
   "project": {
     "name": "New Project",
@@ -11,5 +11,11 @@
     "designDoc": "docs/design.md"
   },
   "integrations": {},
-  "logs": []
+  "logs": [
+    {
+      "timestamp": "2026-01-22T16:37:00.014Z",
+      "action": "Phase changed to basic_design",
+      "actor": "user"
+    }
+  ]
 }
