@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-01-22T16:36:58.736Z",
+  "currentPhase": "basic_design",
+  "project": {
+    "name": "New Project",
+    "repoName": "NK28116/testTrinityDevelop"
+  },
+  "artifacts": {
+    "requirementsDoc": "docs/requirements.md",
+    "designDoc": "docs/design.md"
+  },
+  "integrations": {},
+  "logs": []
+}
